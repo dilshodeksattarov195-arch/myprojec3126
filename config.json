@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruave",
+        "uuid": 8815320,
+        "checksum": "b42ia"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
